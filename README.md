@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mohamed 👋
 
-<!--
-**HadrichMohamed/HadrichMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+🤖 AI & Data Science Enthusiast
+💻 Python • SQL • Machine Learning • Data Analysis
 
-Here are some ideas to get you started:
+### 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Build practical AI and data projects
+* Explore machine learning and data analysis
+* Develop automation workflows with AI
+
+### 🛠️ Tech Stack
+
+**Python** • **SQL** • **C** • **Java** • **PHP** • **JavaScript**
+**Pandas** • **NumPy** • **Power BI** • **Git** • **Docker** • **n8n**
+
+### 🎯 Currently
+
+Learning and building projects in **AI, Data Science & Automation**.
+
+📫 Open to internships, projects and collaboration.
+
